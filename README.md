@@ -14,18 +14,20 @@ Kaggle: https://www.kaggle.com/datasets/ranamuhammmadusman/wheat-economics-compr
 
 ## IV) Path tree
 
-$\href{https://github.com/johnluk0092/analyze_wheat_product/tree/main/data_warehouse}{data warehouse}$
+[data warehouse](https://github.com/johnluk0092/analyze_wheat_product/tree/main/data_warehouse)
 
 
 
-$\href{https://github.com/johnluk0092/analyze_wheat_product/tree/main/dataset}{dataset}$
+
+[dataset](https://github.com/johnluk0092/analyze_wheat_product/tree/main/dataset)
 
 
 
-$\href{https://github.com/johnluk0092/analyze_wheat_product/blob/main/p_Wheat_economics_cleaning_ELT.ipynb}{data processing ELT}$
+[data processing ELT](https://github.com/johnluk0092/analyze_wheat_product/blob/main/p_Wheat_economics_cleaning_ELT.ipynb)
 
 
-$\href{https://github.com/johnluk0092/analyze_wheat_product/blob/main/p_Wheat_economics.ipynb}{analyzing and model forecast}$
+
+[analyze and model forecast](https://github.com/johnluk0092/analyze_wheat_product/blob/main/p_Wheat_economics.ipynb)
 
 
 
