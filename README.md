@@ -15,29 +15,36 @@ Kaggle: https://www.kaggle.com/datasets/ranamuhammmadusman/wheat-economics-compr
 ## IV) Path tree
 
 
-Directory: dataset
-Purpose: contain raw data need to be clean and process
-Data type: csv
-[dataset](https://github.com/johnluk0092/analyze_wheat_product/tree/main/dataset)
+Directory: dataset \
+Purpose: contain raw data need to be clean and process \
+Data type: csv \
+[dataset](https://github.com/johnluk0092/analyze_wheat_product/tree/main/dataset) 
 
-Directory: data warehouse
-Purpose: contain cleaned data ready to analyze 
-Data type: parquet
+---
+
+Directory: data warehouse \
+Purpose: contain cleaned data ready to analyze \
+Data type: parquet \
 [data warehouse](https://github.com/johnluk0092/analyze_wheat_product/tree/main/data_warehouse)
 
-File: data cleaning and processed (Extract, Load, Transform)
-Purpose: Extract raw data from source, Loading the raw data for the process, Transform data from raw data to ready to analyze data
-File type: ipynb
-Language: Python
-Library: numpy, pandas, matplotlib, seaborn, os
+---
+File: data cleaning and processed (Extract, Load, Transform)\
+Purpose: Extract raw data from source, Loading the raw data for the process, Transform data from raw data to ready to analyze data\
+File type: ipynb\
+Language: Python\
+Library: numpy, pandas, matplotlib, seaborn, os\
 [data processing ELT](https://github.com/johnluk0092/analyze_wheat_product/blob/main/p_Wheat_economics_cleaning_ELT.ipynb)
 
-File: data analyze and forecast 
-Purpose: reprocess data, data understanding, perform EDA, feature engineering, training model, evaluation, model selection
-File type: ipynb
-Language: Python
-Library: numpy, pandas, matplotlib, seaborn, sklearn, os
+---
+
+File: data analyze and forecast\ 
+Purpose: reprocess data, data understanding, perform EDA, feature engineering, training model, evaluation, model selection\
+File type: ipynb\
+Language: Python\
+Library: numpy, pandas, matplotlib, seaborn, sklearn, os\
 [analyze and model forecast](https://github.com/johnluk0092/analyze_wheat_product/blob/main/p_Wheat_economics.ipynb)
+
+---
 
 ## V) Result
 
